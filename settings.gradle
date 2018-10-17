@@ -1,1 +1,1 @@
-include ':OtherActivity', ':startactivity'
+include ':OtherActivity', ':startactivity', ':bundletest', ':bunldetest', ':activityforresult'

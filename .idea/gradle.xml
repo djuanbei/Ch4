@@ -9,6 +9,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/OtherActivity" />
+            <option value="$PROJECT_DIR$/activityforresult" />
+            <option value="$PROJECT_DIR$/bundletest" />
+            <option value="$PROJECT_DIR$/bunldetest" />
             <option value="$PROJECT_DIR$/startactivity" />
           </set>
         </option>
